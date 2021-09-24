@@ -189,7 +189,7 @@ function App(props) {
   const drawer = (
     <div>
       <div className={classes.toolbar} />
-      <ListItem className={classes.toolbarTitle}>Ali Fard</ListItem>
+      <ListItem className={classes.toolbarTitle}>Fojan Babaali</ListItem>
       <Divider variant="middle" className={classes.divider} />
       <List className={classes.list}>
         {["Profile", "Status", "Dashboard", "Database"].map((text, index) => (
